@@ -4,7 +4,7 @@ A simple and responsive web timer built with **HTML**, **CSS**, **Bootstrap**, a
 
 ## 📸 Preview
 
-![Routine Timer Preview](https://via.placeholder.com/800x400?text=Timer+Preview)
+![Routine Timer Preview] (![alt text](assets/img/image.png))
 
 ## 🚀 Features
 
