@@ -4,12 +4,13 @@ A simple and responsive web timer built with **HTML**, **CSS**, **Bootstrap**, a
 
 ## 📸 Preview
 
-![Routine Timer Preview] (![alt text](assets/img/project.png))
+![Routine Timer Preview](image.png)
 
 ## 🚀 Features
 
 - Responsive layout using **Bootstrap**
 - Customizable countdown timer
+- Progress bar that updates in real time
 - Alerts when the timer finishes
 - Reset functionality
 
